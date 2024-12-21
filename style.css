@@ -1,0 +1,31 @@
+*{
+  font-family: "Montserrat", serif;
+}
+.navbar-link{
+  color: #7177F1;
+}
+.navbar-link:hover{
+  background-color: #7177F1;
+  color: white;
+  border-radius: 8px;
+  padding: 10px 43px;
+}
+.button{
+  color: white;
+  background-color: #7177F1;
+  border-radius: 8px;
+  padding: 10px 43px;
+  border: none;
+}
+.brends{
+  color: #7177F1;
+  padding: 15px ;
+}
+.brends:hover{
+  background-color: #7177F1;
+  color: white;
+  padding: 15px ;
+}
+.accordion-bg{
+  background-color: #7177F1; 
+}
